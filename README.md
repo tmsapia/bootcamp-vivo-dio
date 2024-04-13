@@ -1,4 +1,4 @@
-![Repo views](https://gpvc.arturio.dev/[YOUR_PROFILE_USERNAME])
+![Repo views](https://gpvc.arturio.dev/tmsapia)
 
 # Bootcamp Python Backend Dev (Vivo e Dio)
 
