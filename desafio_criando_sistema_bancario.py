@@ -1,4 +1,4 @@
-# Sistema bancario
+# Sistema bancario 2.0 - Criar duas novas features para cadastrar usuário e cadastrar conta bancária
 # Funções de deposito, saque e extrato
 
 LIMITE_POR_SAQUE = 500
